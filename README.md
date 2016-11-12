@@ -1,4 +1,4 @@
-# \BSFP\S
+# \BSFP\B
 
 ## install
 
